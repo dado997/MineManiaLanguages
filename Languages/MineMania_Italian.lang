@@ -1,31 +1,41 @@
 GUI_PREVIOUS: Indietro
-GUI_PREVIOUS_LORE: Go to previous page.
-GUI_NEXT: Next
-GUI_NEXT_LORE: Go to next page.
+GUI_PREVIOUS_LORE: Vai alla pagina precedente.
+GUI_NEXT: Avanti
+GUI_NEXT_LORE: Vai alla prossima pagina.
 GUI_SEARCH: Cerca
 GUI_SEARCH_LORE: Clicca per cercare
-GUI_CLICK_TO_CHOOSE: Click to choose
+GUI_CLICK_TO_CHOOSE: Clicca per scegliere
 GUI_CREATE: Crea
-GUI_CREATE_LORE: Crea un nuovo mondo.
+GUI_CREATE_LORE: Crea una nuova miniera.
 GUI_LEFT_CLICK_MANAGE: Click sinistro per gestire.
-GUI_RIGHT_CLICK_TP: Click destro per teletrasportarti.
 GUI_PRESS_Q_DELETE: Premi Q per eliminare.
-GUI_ENVIRONMENT: Ambiente
-GUI_TYPE: Tipo
-GUI_GENERATOR: Generatore
-GUI_GENERATE_STRUCTURES: Genera strutture
-GUI_CLICK_TO_TELEPORT: Clicca per teletrasportarti.
+GUI_ICON: Icona
+GUI_CLICK_TO_CHANGE: §aClicca per cambiare.
 GUI_CONFIRM: Conferma
 GUI_CONFIRM_LORE: §7Clicca per confermare
 GUI_ABORT: Cancella
 GUI_ABORT_LORE: §7Clicca per cancellare
-GUI_DIFFICULTY: Difficolta'
-GUI_WEATHER: Pioggia bloccata
-GUI_PLAYERS: Giocatori
-GUI_TIME_LOCKED: Tempo bloccato
-GUI_ICON: Icona
-GUI_CLICK_TO_CHANGE: §aClicca per cambiare.
-GUI_CLICK_TO_VIEW_PLAYERS: §aClicca per vedere i giocatori in questo mondo.
-GUI_CLICK_TO_CHANGE_TO: §aClicca per cambiare in 
-GUI_DELETE: Elimina
-GUI_DELETE_LORE: Elimina il mondo.
+GUI_BACK: Indietro
+GUI_SETREGION: SetRegion
+GUI_SETREGION_LORE: Gestisci la regione di questa miniera.
+GUI_BLOCKS: Blocchi
+GUI_BLOCKS_LORE: Gestisci i blocchi in questa miniera.
+MINE_ALREADY_EXISTS: §cUna miniera con questo nome gia' esiste!
+MINE_DOESNT_EXISTS: §cUna miniera con questo nome non esiste!
+CREATED_MINE: §aHai creato con successo la miniera §e%mine%
+REGION_NEEDED: §cDevi impostare una regione prima di aggiungere o rimuovere blocchi!
+PERCENTAGE_0: Il blocco non puo' avere come percentuale 0!
+PERCENTAGE_100: Le probabilita' dei blocchi di questa miniera hanno raggiunto il 100%!
+MATERIAL_DOESNT_EXISTS: Il materiale: %material% non esiste!
+BLOCK_ADDED: §aHai aggiungo con successo il blocco %block% nella miniera %mine%
+BLOCK_REMOVED: §aHai rimosso con successo il blocco %block% dalla miniera %mine%
+INVALID_NUMBER: Numero invalido!
+TP_LOC_SETTED: §aAggiunto con successo il punto di spawn della miniera §e%mine%
+REGION_SETTED: §aRegione impostata con successo!
+INCOMPLETE_MINE: §cDevi completare tutta la percentuale di blocchi in questa miniera!
+SUCCESSFULLY_RESET: §aHai resettato con successo la miniera §e%mine%
+TP_LOC_NEEDED: §cQuesta miniera non ha un punto di spawn!
+SUCCESSFULLY_TP: §aTeletrasportato con successo nella miniera §e%mine%
+COOLDOWN_SETTED: §aImpostato con successo il cooldown per la miniera §e%mine%
+REMOVED_MINE: §aRimossa con successo la miniera §e%mine%
+PLUGIN_RELOADED: §aPlugin ricaricato con successo!
