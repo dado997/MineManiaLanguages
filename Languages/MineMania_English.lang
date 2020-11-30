@@ -20,6 +20,11 @@ GUI_SETREGION: SetRegion
 GUI_SETREGION_LORE: Manage region in that mine.
 GUI_BLOCKS: Blocks
 GUI_BLOCKS_LORE: Manage blocks in that mine.
+CONSOLE_CANNOT_USE: §cConsole cannot use this command!
+NO_PERMISSION: §cYou don't have permission to perform this action!
+COMMAND_INVALID_ARGS: §cInvalid Arguments!
+COMMAND_NOTFOUND: §cCommand not found!
+COMMAND_HINT_HELP: §7Type in chat /minemania to see all commands.
 MINE_ALREADY_EXISTS: §cA mine with this name already exists!
 MINE_DOESNT_EXISTS: §cA mine with this name doesn't exists!
 CREATED_MINE: §aSuccessfully created the mine §e%mine%

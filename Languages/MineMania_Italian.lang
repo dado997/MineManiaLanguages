@@ -20,6 +20,11 @@ GUI_SETREGION: SetRegion
 GUI_SETREGION_LORE: Gestisci la regione di questa miniera.
 GUI_BLOCKS: Blocchi
 GUI_BLOCKS_LORE: Gestisci i blocchi in questa miniera.
+CONSOLE_CANNOT_USE: §cLa console non puo' usare questo comando!
+NO_PERMISSION: §cNon hai il permesso di eseguire questa azione!
+COMMAND_INVALID_ARGS: §cArgomenti non validi!
+COMMAND_NOTFOUND: §cComando non trovato!
+COMMAND_HINT_HELP: §7Scrivi in chat /minemania help per vedere la lista dei comandi.
 MINE_ALREADY_EXISTS: §cUna miniera con questo nome gia' esiste!
 MINE_DOESNT_EXISTS: §cUna miniera con questo nome non esiste!
 CREATED_MINE: §aHai creato con successo la miniera §e%mine%
