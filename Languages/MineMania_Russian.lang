@@ -1,0 +1,46 @@
+GUI_PREVIOUS: Предыдущая
+GUI_PREVIOUS_LORE: Пред. страница.
+GUI_NEXT: Следующая
+GUI_NEXT_LORE: След. страница.
+GUI_SEARCH: Искать
+GUI_SEARCH_LORE: Нажми что бы искать
+GUI_CLICK_TO_CHOOSE: Нажми что бы выбрать
+GUI_CREATE: Создать
+GUI_CREATE_LORE: Создать новую шахту.
+GUI_LEFT_CLICK_MANAGE: Нажми левую кнопку мыши что бы управлять.
+GUI_PRESS_Q_DELETE: Нажми Q что бы удалить.
+GUI_ICON: Иконка
+GUI_CLICK_TO_CHANGE: §aНажми что бы изменить
+GUI_CONFIRM: Подтвердить
+GUI_CONFIRM_LORE: §7Нажми что бы подтвердить
+GUI_ABORT: Прервать
+GUI_ABORT_LORE: §7Нажми что бы прервать
+GUI_BACK: Назад
+GUI_SETREGION: Установить регион
+GUI_SETREGION_LORE: Управление регионом этой шахты.
+GUI_BLOCKS: Блоки
+GUI_BLOCKS_LORE: Управление блоками этой шахты.
+CONSOLE_CANNOT_USE: §cКонсоль не может использовать эту команду!
+NO_PERMISSION: §cУ тебя нету разрешения на это!
+COMMAND_INVALID_ARGS: §cНеправильный аргумент!
+COMMAND_NOTFOUND: §cКоманда не найдена!
+COMMAND_HINT_HELP: §7Введи /minemania что бы посмотреть все команды.
+MINE_ALREADY_EXISTS: §cШахта с таким именем уже есть!
+MINE_DOESNT_EXISTS: §cШахты с таким именем не существует!
+CREATED_MINE: §aУспешно создана шахта §e%mine%
+REGION_NEEDED: §cТебе нужно установить регион прежде чем добавлять/удалять блоки!
+PERCENTAGE_0: Блок не может иметь шанс 0!
+PERCENTAGE_100: Шанс в шахте достинг 100%!
+MATERIAL_DOESNT_EXISTS: Материал: %material% не найден!
+BLOCK_ADDED: §aблок %block% успешно добавлен к шахте %mine%
+BLOCK_REMOVED: §aУспешно удален блок %block% из шахты %mine%
+INVALID_NUMBER: Неправильный номер!
+TP_LOC_SETTED: §aУспешно установлена локация для телепортации к шахте §e%mine%
+REGION_SETTED: §aРегион успешно установлен!
+INCOMPLETE_MINE: §cТебе нужно указать все проценты блоков в шахте!
+SUCCESSFULLY_RESET: §aУспешно обновлена шахта §e%mine%
+TP_LOC_NEEDED: §cУ этой шахты нет точки телепортации!
+SUCCESSFULLY_TP: §aУспешно телепортирован к шахте §e%mine%
+COOLDOWN_SETTED: §aУспешно установлена задержка для шахты §e%mine%
+REMOVED_MINE: §aУспешно удалена шахта §e%mine%
+PLUGIN_RELOADED: §aПлагин успешно перезагружен!
