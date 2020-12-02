@@ -1,29 +1,29 @@
-GUI_PREVIOUS: Previous
-GUI_PREVIOUS_LORE: Go to previous page.
-GUI_NEXT: Next
-GUI_NEXT_LORE: Go to next page.
-GUI_SEARCH: Search
-GUI_SEARCH_LORE: Click to search
-GUI_CLICK_TO_CHOOSE: Click to choose
-GUI_CREATE: Create
-GUI_CREATE_LORE: Create a new mine.
-GUI_LEFT_CLICK_MANAGE: Left click to manage.
-GUI_PRESS_Q_DELETE: Press Q to remove.
-GUI_ICON: Icon
-GUI_CLICK_TO_CHANGE: §aClick to change
-GUI_CONFIRM: Confirm
-GUI_CONFIRM_LORE: §7Click to confirm
-GUI_ABORT: Abort
-GUI_ABORT_LORE: §7Click to abort
-GUI_BACK: Back
-GUI_SETREGION: SetRegion
-GUI_SETREGION_LORE: Manage region in that mine.
-GUI_BLOCKS: Blocks
-GUI_BLOCKS_LORE: Manage blocks in that mine.
-CONSOLE_CANNOT_USE: §cConsole cannot use this command!
-NO_PERMISSION: §cYou don't have permission to perform this action!
-COMMAND_INVALID_ARGS: §cInvalid Arguments!
-COMMAND_NOTFOUND: §cCommand not found!
+GUI_PREVIOUS: "Previous"
+GUI_PREVIOUS_LORE: "Go to previous page."
+GUI_NEXT: "Next"
+GUI_NEXT_LORE: "Go to next page."
+GUI_SEARCH: "Search"
+GUI_SEARCH_LORE: "Click to search"
+GUI_CLICK_TO_CHOOSE: "Click to choose"
+GUI_CREATE: "Create"
+GUI_CREATE_LORE: "Create a new mine."
+GUI_LEFT_CLICK_MANAGE: "Left click to manage."
+GUI_PRESS_Q_DELETE: "Press Q to remove."
+GUI_ICON: "Icon"
+GUI_CLICK_TO_CHANGE: "§aClick to change"
+GUI_CONFIRM: "Confirm"
+GUI_CONFIRM_LORE: "§7Click to confirm"
+GUI_ABORT: "Abort"
+GUI_ABORT_LORE: "§7Click to abort"
+GUI_BACK: "Back"
+GUI_SETREGION: "SetRegion"
+GUI_SETREGION_LORE: "Manage region in that mine."
+GUI_BLOCKS: "Blocks"
+GUI_BLOCKS_LORE: "Manage blocks in that mine."
+CONSOLE_CANNOT_USE: "§cConsole cannot use this command!"
+NO_PERMISSION: "§cYou don't have permission to perform this action!"
+COMMAND_INVALID_ARGS: "§cInvalid Arguments!"
+COMMAND_NOTFOUND: "§cCommand not found!"
 COMMAND_HINT_HELP: §7Type in chat /minemania to see all commands.
 MINE_ALREADY_EXISTS: §cA mine with this name already exists!
 MINE_DOESNT_EXISTS: §cA mine with this name doesn't exists!
@@ -43,4 +43,4 @@ TP_LOC_NEEDED: §cThis mine doesn't have a spawn location!
 SUCCESSFULLY_TP: §aSuccessfully teleported to the mine §e%mine%
 COOLDOWN_SETTED: §aSuccessfully setted cooldown for the mine §e%mine%
 REMOVED_MINE: §aSuccessfully removed the mine §e%mine%
-PLUGIN_RELOADED: §aPlugin reloaded successfully!
+PLUGIN_RELOADED: "§aPlugin reloaded successfully!"
