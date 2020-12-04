@@ -44,4 +44,5 @@ SUCCESSFULLY_TP: §aTeletrasportato con successo nella miniera §e%mine%
 COOLDOWN_SETTED: §aImpostato con successo il cooldown per la miniera §e%mine%
 REMOVED_MINE: §aRimossa con successo la miniera §e%mine%
 VALUE_CHANGED: §aValore cambiato a §e%value%
+MINE_ALREADY_RESETTING: §cLa miniera si sta' gia' resettando, aspetta che il processo sia completato.
 PLUGIN_RELOADED: §aPlugin ricaricato con successo!
