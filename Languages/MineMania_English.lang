@@ -20,6 +20,12 @@ GUI_SETREGION: SetRegion
 GUI_SETREGION_LORE: Manage region in that mine.
 GUI_BLOCKS: Blocks
 GUI_BLOCKS_LORE: Manage blocks in that mine.
+GUI_POTIONS: Potions
+GUI_POTIONS_LORE: Manage potionEffects in that mine.
+GUI_LEFT_REMOVE: §cLeft click to remove
+GUI_LEFT_ADD: §aLeft click to add
+GUI_RIGHT_ADD: §bRight click to add level
+GUI_CURRENT_LEVEL: Current level §e%level%
 CONSOLE_CANNOT_USE: §cConsole cannot use this command!
 NO_PERMISSION: §cYou don't have permission to perform this action!
 COMMAND_INVALID_ARGS: §cInvalid Arguments!
