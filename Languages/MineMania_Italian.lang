@@ -40,6 +40,11 @@ PERCENTAGE_100: Le probabilita' dei blocchi di questa miniera hanno raggiunto il
 MATERIAL_DOESNT_EXISTS: Il materiale: %material% non esiste!
 BLOCK_ADDED: §aHai aggiungo con successo il blocco %block% nella miniera %mine%
 BLOCK_REMOVED: §aHai rimosso con successo il blocco %block% dalla miniera %mine%
+POTION_DOESNT_EXISTS: §cLa pozione: %potion% non esiste!
+POTION_ADDED: §aAggiunta con successo la pozione %potion% nella miniera %mine%
+POTION_ALREADY_INMINE: §cQuesta pozione gia' esiste in questa miniera!
+POTION_NOT_INMINE: §cQuesta pozione non e' in questa miniera!
+POTION_REMOVED: §aRimossa con successo la pozione %potion% dalla miniera %mine%
 INVALID_NUMBER: Numero invalido!
 TP_LOC_SETTED: §aAggiunto con successo il punto di spawn della miniera §e%mine%
 REGION_SETTED: §aRegione impostata con successo!

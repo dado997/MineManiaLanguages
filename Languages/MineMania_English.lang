@@ -40,6 +40,11 @@ PERCENTAGE_100: The chance in the mine has reached the 100%!
 MATERIAL_DOESNT_EXISTS: The material: %material% doesn't exists!
 BLOCK_ADDED: §aSuccessfully added the block %block% to the mine %mine%
 BLOCK_REMOVED: §aSuccessfully removed the block %block% from the mine %mine%
+POTION_DOESNT_EXISTS: §cThe potion: %potion% doesn't exists!
+POTION_ADDED: §aSuccessfully added the potion %potion% to the mine %mine%
+POTION_ALREADY_INMINE: §cThis potion is already in this mine!
+POTION_NOT_INMINE: §cThis potion isn't in this mine!
+POTION_REMOVED: §aSuccessfully removed the potion %potion% from the mine %mine%
 INVALID_NUMBER: Invalid number!
 TP_LOC_SETTED: §aSuccessfully setted tpLoc of the mine §e%mine%
 REGION_SETTED: §aRegion setted with success!
