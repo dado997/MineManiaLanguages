@@ -26,6 +26,10 @@ GUI_LEFT_REMOVE: §cLeft click to remove
 GUI_LEFT_ADD: §aLeft click to add
 GUI_RIGHT_ADD: §bRight click to add level
 GUI_CURRENT_LEVEL: Current level §e%level%
+GUI_MIGRATION: Import Data
+GUI_MIGRATION_LORE: §aFrom the plugin %plugin%
+GUI_MIGRATION_LORE2: Your mines will be removed and the server will shutdown!
+GUI_MIGRATION_LORE3: After done that, please remove the plugin %plugin%
 CONSOLE_CANNOT_USE: §cConsole cannot use this command!
 NO_PERMISSION: §cYou don't have permission to perform this action!
 COMMAND_INVALID_ARGS: §cInvalid Arguments!

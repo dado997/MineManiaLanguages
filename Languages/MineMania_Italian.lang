@@ -26,6 +26,10 @@ GUI_LEFT_REMOVE: §cClick destro per rimuovere
 GUI_LEFT_ADD: §aClick destro per aggiungere
 GUI_RIGHT_ADD: §bClick destro per aggiungere livello
 GUI_CURRENT_LEVEL: Livello attuale §e%level%
+GUI_MIGRATION: Importa i dati
+GUI_MIGRATION_LORE: §aDal plugin %plugin%
+GUI_MIGRATION_LORE2: Le tue miniere verranno rimosse e il server si spegnera'!
+GUI_MIGRATION_LORE3: Dopo averlo fatto, per favore, rimuovi il plugin %plugin%
 CONSOLE_CANNOT_USE: §cLa console non puo' usare questo comando!
 NO_PERMISSION: §cNon hai il permesso di eseguire questa azione!
 COMMAND_INVALID_ARGS: §cArgomenti non validi!
