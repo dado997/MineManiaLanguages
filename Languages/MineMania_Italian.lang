@@ -59,6 +59,7 @@ SUCCESSFULLY_TP: §aTeletrasportato con successo nella miniera §e%mine%
 COOLDOWN_SETTED: §aImpostato con successo il cooldown per la miniera §e%mine%
 PERCENTAGE_SETTED: §aImpostato con successo la percentuale di reset per la miniera §e%mine%
 REMOVED_MINE: §aRimossa con successo la miniera §e%mine%
+RESET_WARNING: §aLa miniera §e%mine% si resettera' tra §e%secondsleft% secondi.
 RENAMED_MINE: §aRinominata con successo la miniera §e%mine%
 VALUE_CHANGED: §aValore cambiato a §e%value%
 MINE_ALREADY_RESETTING: §cLa miniera si sta' gia' resettando, aspetta che il processo sia completato.

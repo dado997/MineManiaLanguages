@@ -59,6 +59,7 @@ SUCCESSFULLY_TP: §aSuccessfully teleported to the mine §e%mine%
 COOLDOWN_SETTED: §aSuccessfully setted cooldown for the mine §e%mine%
 PERCENTAGE_SETTED: §aSuccessfully setted percentage reset for the mine §e%mine%
 REMOVED_MINE: §aSuccessfully removed the mine §e%mine%
+RESET_WARNING: §aThe mine §e%mine% will be resetting in §e%secondsleft% seconds.
 RENAMED_MINE: §aSuccessfully renamed the mine §e%mine%
 VALUE_CHANGED: §aValue changed to §e%value%
 MINE_ALREADY_RESETTING: §cThe mine is already resetting, wait until the process is completed.
